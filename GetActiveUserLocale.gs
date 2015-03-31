@@ -81,22 +81,22 @@ var strings = {
 
   /* Chinese (Taiwan) */
   "zh_TW" : {
-    hello: "ä½ å¥½",
-    helloworld: "ä¸–ç•Œä½ å¥½",
+    hello: "你好",
+    helloworld: "世界你好",
     derp: "derp"
   },
 
   /* Chinese (Hong Kong or Macau) */
   "zh_HK" : {
-    hello: "ä½ å¥½",
-    helloworld: "ä¸–ç•Œä½ å¥½",
+    hello: "你好",
+    helloworld: "世界你好",
     derp: "derp"
   },
 
   /* Chinese (China or Singapore) */
   "zh_CN" : {
-    hello: "ä½ å¥½",
-    helloworld: "ä¸–ç•Œä½ å¥½",
+    hello: "你好",
+    helloworld: "世界你好",
     derp: "derp"
   }
 };
